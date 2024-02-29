@@ -158,6 +158,9 @@
     "socket.io": "^2.3.0",
     "sqlite3": "^5.0.0",
     "svg-captcha": "^1.4.0",
+    "stream-buffers": "^3.0.1",
+    "tap": "^5.7.0",
+    "tinymce": "4.1.0",
     "swagger-ui-express": "^4.1.4",
     "unzipper": "0.9.15",
     "winston": "^3.3.3",
@@ -165,6 +168,7 @@
     "z85": "^0.0.2"
   },
   "devDependencies": {
+    "browserify": "^13.1.1",
     "chai": "^4.2.0",
     "chai-as-promised": "^7.1.1",
     "cross-spawn": "^7.0.3",
